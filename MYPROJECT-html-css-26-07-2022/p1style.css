@@ -1,0 +1,20 @@
+*{margin:0px; padding:0px;}
+.wrapper{
+   width:100%;
+   float : left;}
+.data_center_0{
+   max-width:400px;
+   margin:0px auto;}
+.header_section{
+   min-height:50%;
+   background-color:green;}
+.header_section:hover{
+    background-color:orange;}
+.menu_section{
+   width:100%;
+   float:left; 
+   min-height:40px;
+   background-color:blue;}
+.menu_section:hover{
+  background-color:red;
+  }
